@@ -19,5 +19,5 @@ https://youtu.be/G0ZJTWHw9Ashttps://youtu.be/G0ZJTWHw9As
 # Future Work
 
 - camera control
-- actors (player, enemies, nnpcs, etc)
+- actors (player, enemies, npcs, etc)
 - gameplay
